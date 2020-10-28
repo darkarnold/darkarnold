@@ -2,8 +2,8 @@
 
 
 
--I’m currently working on a web app that will serve a classifieds for developer jobs in my country
-- 🌱 I’m currently learning Django 
+-I’m currently working on improving my web development skills
+- 🌱 I’m currently learning Web Development 
 - 👯 I’m looking to collaborate on any project to help me learn
 - 💬 Ask me about Anime and Manga and comic book TV shows and Python
 - ⚡ Fun fact: I love anime and watch alot of Tv shows
